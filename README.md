@@ -1,9 +1,8 @@
-# jQuery Calculator
+# PocketCalc: A jQuery Calculator
 
 A simple calculator that I built with jQuery. Stylized with HTML/CSS and Bootstrap.
 
 Includes functions for:
-
 - Addition
 - Subtraction
 - Multiplication
