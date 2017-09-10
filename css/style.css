@@ -1,0 +1,74 @@
+.headerStyle{
+  font-family: 'Anaheim', sans-serif;
+}
+
+.ceBtn{
+	color: white;
+	background: #d8d8d8;
+}
+
+.acBtn{
+	background-color: #a6a6a6;
+	color: white;
+}
+
+.spacing{
+	padding-top: 10px;
+}
+
+a{
+	width: 60px;
+	height: 35px;
+}
+
+.equals{
+	background: #ffb732;
+	color: white;
+}
+
+.divide{
+	background: #d8d8d8;
+	color: white;
+}
+
+.multiply{
+	background: #d8d8d8;
+	color: white;
+}
+
+.add{
+	background: #d8d8d8;
+	color: white;
+}
+
+.subtract{
+	background: #d8d8d8;
+	color: white;
+}
+
+.decimal{
+	background: #d8d8d8;
+	color: white;
+}
+
+.output{
+	width:252px;
+	font-size: 21px;
+	border-radius: 7px;
+   height: 100%;
+   background-color: black;
+	color: green;
+   position: relative;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 15px;
+   padding-bottom:15px;
+	padding-right: 20px;
+	text-align: right;
+}
+
+#calculator{
+
+	padding-top:10px;
+}
