@@ -4,11 +4,11 @@ A simple calculator that I built with jQuery. Stylized with HTML/CSS and Bootstr
 
 Includes functions for:
 
--Addition
--Subtraction
--Multiplication
--Division
--Decimal values
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Decimal values
 
 Check out the demo [here]!
 
