@@ -1,6 +1,13 @@
 # jQuery Calculator
 
-A simple calculator that I built with jQuery. Includes functions for addition, subtraction, multiplication, division, and decimal values. Stylized with HTML/CSS and Bootstrap.
+A simple calculator that I built with jQuery. Stylized with HTML/CSS and Bootstrap.
+
+Includes functions for:
+-Addition
+-Subtraction
+-Multiplication
+-Division
+-Decimal values 
 
 Check out the demo [here]!
 
