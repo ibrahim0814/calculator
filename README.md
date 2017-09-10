@@ -3,11 +3,12 @@
 A simple calculator that I built with jQuery. Stylized with HTML/CSS and Bootstrap.
 
 Includes functions for:
+
 -Addition
 -Subtraction
 -Multiplication
 -Division
--Decimal values 
+-Decimal values
 
 Check out the demo [here]!
 
