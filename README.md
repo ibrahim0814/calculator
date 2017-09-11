@@ -9,6 +9,6 @@ Includes functions for:
 - Division
 - Decimal values
 
-Check out the demo [here]!
+#### Check out the demo [here]!
 
 [here]:https://codepen.io/ibrahim0814/full/GvVQKo/
