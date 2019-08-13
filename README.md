@@ -16,5 +16,5 @@ The calculator includes operations for the following:
 ## Demo
 You can interact with and demo the project [here](https://codepen.io/ibrahim0814/full/GvVQKo/)!
 
-### Author
+## Author
 Created by Ibrahim Ali. Contact: ibrahim.ali@vanderbilt.edu
