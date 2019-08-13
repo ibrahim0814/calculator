@@ -13,5 +13,8 @@ The calculator includes operations for the following:
   * Division
   * Decimal values
 
-#### [Check out the demo here]!
-[Check out the demo here]: https://codepen.io/ibrahim0814/full/GvVQKo/
+## Demo
+You can interact with and demo the project [here](https://codepen.io/ibrahim0814/full/GvVQKo/)!
+
+### Author
+Created by Ibrahim Ali. Contact: ibrahim.ali@vanderbilt.edu
