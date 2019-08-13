@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This repository contains code for a simple calculator that I built with jQuery and JavaScript. It's stylized with HTML/CSS and Bootstrap. You can interact with and [demo the project here](https://codepen.io/ibrahim0814/full/GvVQKo/)!
+This repository contains code for a simple calculator that I built with jQuery and JavaScript. It's stylized with HTML/CSS and Bootstrap. You can [interact with it here](https://codepen.io/ibrahim0814/full/GvVQKo/)!
 
 ## Functionality
 
